@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/vidget38/gulp-start#readme",
   "devDependencies": {
+    "browser-sync": "^2.28.3",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
-    "sass": "^1.58.3"
+    "sass": "^1.58.3",
+    "swiper": "^9.1.0"
   }
 }
